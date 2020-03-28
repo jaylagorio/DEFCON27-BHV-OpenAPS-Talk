@@ -6,4 +6,4 @@ Speaker Bio: Jay Lagorio, a software engineer and independent security researche
 - [Paper.docx](Paper.docx): Paper containing much of the substance of the talk.
 - [Slides075.pptx](Slides075.pptx): The slides presented at the DEFCON27 Biohacking Village.
 - [Slides100.pptx](Slides100.pptx): The slides that would have been presented at the DEFCON27 Biohacking Village if I had a 60 minute slot.
-
+- [SlidesKernelCon.pptx](SlidesKernelCon.pptx): These slides were presented at Kernelcon 2020 (virtual) and all things considered were probably the slides I wanted to present at DEFCON.
